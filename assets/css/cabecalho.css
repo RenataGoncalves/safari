@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.menu{
+    background-color: rgb(170, 154, 165);
+    
+}
+.menu > div > ul{
+    list-style: none;
+    display: flex;
+    
+    
+}
+.menu > div > ul > li{
+    padding: 25px;
+    
+}
+.menu-link{
+    color: #000000;
+    text-decoration: none;
+    font-size: 15px;
+}
+.menu-link:hover{
+    text-decoration: underline;
+}
+
+
+
